@@ -1,0 +1,92 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-hugo"
+title = " Lcdigitale - Freelance - David Bailly"
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "À Propos"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Services"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Projets"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Expertise"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "À Propos"
+url = "#about"
+weight = 1
+[[menu.sitemap]]
+name = "FAQ"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Politique & Confidentialité"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Dernier Article"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "Tous droits réservés copyright © Lcdigitale 2020"
+footerLogo = "images/contact/lcgob.png"
+formspreeURL = "https://formspree.io/f/mayllnpk"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/lcgo.png"
+
+[params.address]
+address = "Toulouse & Agglomération"
+email = "david.bailly@lcdigitale.com"
+openingHours = "Disponible du Lundi à Samedi (Sauf le Dimanche)"
+phone = "+(33) 6 12 49 64 82"
+
+[params.map]
+APIkey = "AIzaSyDeKDEw75M6vjKFLjefSZLgNHeu3I-nX2o"
+latitude = "43.6043"
+longitude = "1.4437"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-codepen"
+url = "https://codepen.io/kalimbo365"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/davidbailly8/"
+weight = 2
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/davidbaillydev"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4

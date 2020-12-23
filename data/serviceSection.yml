@@ -1,0 +1,52 @@
+---
+enable: true
+topTitle: Proposition de Services 
+title: >
+  ## Mon Espace De Travail
+
+  Découvrez mes services et mon expertise dans différents domaines.
+service:
+  - content: >
+      #### UI/UX Design 
+
+       J’utilise des outils qui me permette d'être créatif. 
+        J'allie, leur puissance et performance.
+         Tout en restant ergonomique et en appliquant un cadre design responsive.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web development
+  
+      J'interviens dans la création sites internet, vitrine ou E-commerce.
+        Avec des outils d'intégration Spécifique à votre besoin.
+          Respectant des standards du web, je m'adapte à vos projets.     
+        
+    image: images/service/web.svg
+  - content: >
+      #### Creative Design 
+
+     
+      Je vous propose mes services dans la conception graphique et Webdesign.
+        En réalisant votre communication visuelle telle que votre logo, flyer.
+          Et autre réalisation graphique au service de votre image.
+    image: images/service/creative.svg
+  - content: >
+      #### Branding
+
+      J'accompagne votre marque ou entreprise à véhiculer, promovoir une image forte à travers différents support de communication. 
+        Rassurante et incitative à l’achat, et gagner la confiance de votre clientèle .
+    image: images/service/branding.svg
+  - content: >
+      #### Digital Marketing
+
+      J'apporte les outils,les concepts de création de solution web, 
+        dans la mise en place d'une stratégie numérique.
+          En assurant votre visibilité SEO.
+            Et via les différents Canaux de communication. 
+    image: images/service/ui-ux.svg
+    
+  # - content: >
+  #     #### Web Development
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/web.svg

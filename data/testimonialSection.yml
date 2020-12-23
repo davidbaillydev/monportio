@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Témoignages
+title: >
+  ## Que disent-ils sur moi ?
+
+testimonial:
+  - name: Ferdous Khan
+    comment: David a fait un super travail sur mon site web, Aujourd'hui, mon entreprise Bénéficie d'une présence en ligne qui me permet de faire découvrir nos plats à nos clients et de les vendre plus simplement en ligne. et fait la différence en cette période de Covid-19.
+    time: Dec 20, 2020
+    star: 5
+  - name: Atiqur Rahman
+    comment: Mon restaurant était fermé pendant plusieurs mois cause covid-19, David m'a apporter une solution de vente en ligne,un suivi de commande et paiement en ligne qui ont permis d'adapter notre activité et continuer d'exercer notre profession.
+    time: Dec 16, 2020
+    star: 4
+  # - name: Franky Filth
+  #   comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  #   time: Mar 08, 2020
+  #   star: 3

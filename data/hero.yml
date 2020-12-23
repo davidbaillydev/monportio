@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Hello, Je suis David
+content: >
+  # Je suis développeur web et freelance
+
+  Profitez de la diversité des équipes et élargissez votre réseaux parmi d'autres personnes.
+  
+buttonName: Contactez-moi
+buttonURL: contact
+# image: images/hero/2960351.jpg
+image: images/hero/david.png
+# videoThumb: images/hero/david.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

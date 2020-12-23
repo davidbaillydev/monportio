@@ -1,0 +1,60 @@
+---
+enable: true
+topTitle: Mon CV
+title: >
+  ## Mon Expertises
+
+  Actuellement Développeur Front-End et comme beaucoup de personnes de ma génération, je suis passionné de nouvelles technologies et j’ai eu ma petite période Geek.
+
+  Aujourd'hui je me considère comme un chanceux car j'aime le travail que je fais, qui est de faite une passion donc je ne m’ennuie quasiment jamais. car il y'a toujours quelque chose à apprendre dans mon monde. 
+tab1Name: Formation
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Certification développeur web
+
+      Mon métier en constante évolution nécessite de se tenir à jour et apprendre des nouvelles technologies, Je m'auto-forme régulièrement sur des plateformes telle qu'Openclassrooms afin d'acquérir de nouvelles compétences qui pourraient me servir lors d'un projet.
+    
+    time:  2019-2020 
+  - content: >
+      #### Certification Google ADS
+      
+      J'ai obtenu la certification Google Ads (Réseau de Recherche, Réseau Display, publicité vidéo, annonces Shopping, publicité pour les applications et Mesures) leur solution me permette d'être un spécialiste en stratégie et marketing digital.      
+    time: 2019-2020
+  - content: >
+      #### Certification Google Analytics IQ
+
+      La certification Google Analytics Individual Qualification aborde des concepts me permettant de créer des rapport et analysées un ensemble de données dont l'audience, l'acquisition et le comportement, et comment configurer des objectifs et le suivi des campagnes.
+    time: 2019-2020
+  - content: >
+      #### Licence Miashs
+      
+      J'ai fait mes armes à l'université de Toulouse II. Formé en Licence Mathématiques Informatiques Appliquées Et Sciences Humaines et Sociales, j'ai pu aborder différents aspects de l'informatique et de la gestion, dans une dimension générale. Ce parcours m'a permis de m'enrichir et m'a encourager à faire preuve de curiosité.
+    
+    time: 2014-2017
+
+experience:
+  - content: >
+      #### La Communication Digitale 
+    
+    
+       Freelance dans le domaine du digitale, j'interviens dans la transformation digitale des entreprises notamment en leur fournissant des services telle que la Création de site web responsive, la création graphique, Référencement Naturel, Sea, Stratégie Marketing Numérique avec les outils Google Ads, la création et suivie de campagne avec Google Analytics.
+    time: 2019 - À Aujourd'hui
+  - content: >
+      #### Selene & Master Technologie
+
+      J'ai exercé dans une société à taille humaine en tant que technicien support informatique ce qui m'a emmener à effectuer différentes missions telles que la pose d'Équipements Informatique, des Interventions sur Baie, Serveur, et terminal de paiement électronique, du support client, reporting. 
+    time: AVRIL 2018 - JUIN 2018
+  # - content: >
+  #     #### ACME Inc. 
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2005-2010
+  # - content: >
+  #     #### LexCorp 
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2001-2005
